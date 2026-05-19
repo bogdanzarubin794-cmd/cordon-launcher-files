@@ -2,6 +2,13 @@
   "version": "v1",
   "files": [
     {
+      "path": "mods/1.12.2-securitycraft-v1.9.12.jar",
+      "assetName": "1.12.2-securitycraft-v1.9.12.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/1.12.2-securitycraft-v1.9.12.jar",
+      "size": 4045767,
+      "sha1": "d4f8f8211b8374c35102a8d2b9f40a6287e1e3eb"
+    },
+    {
       "path": "mods/appliedenergistics2-rv6-stable-7.jar",
       "assetName": "appliedenergistics2-rv6-stable-7.jar",
       "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/appliedenergistics2-rv6-stable-7.jar",
@@ -23,9 +30,9 @@
       "sha1": "245235d5c67daff00ee658ee1f88ae8c3e4584b8"
     },
     {
-      "path": "mods/BiblioCraft[v2.4.6][MC1.12.2].jar",
-      "assetName": "BiblioCraft[v2.4.6][MC1.12.2].jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/BiblioCraft%5Bv2.4.6%5D%5BMC1.12.2%5D.jar",
+      "path": "mods/bibliocraftv2.4.6mc1.12.2.jar",
+      "assetName": "bibliocraftv2.4.6mc1.12.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/bibliocraftv2.4.6mc1.12.2.jar",
       "size": 5185177,
       "sha1": "6eb72c2a6b9d202e53e760e26048c230cd2ca5da"
     },
@@ -37,9 +44,9 @@
       "sha1": "c43a1075766588ea9764babf36442492bde7eefd"
     },
     {
-      "path": "mods/Flan's Mod-1.12.2-5.10.0.jar",
-      "assetName": "Flan's.Mod-1.12.2-5.10.0.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Flan's.Mod-1.12.2-5.10.0.jar",
+      "path": "mods/flans-mod-1.12.2-5.10.0.jar",
+      "assetName": "flans-mod-1.12.2-5.10.0.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/flans-mod-1.12.2-5.10.0.jar",
       "size": 2259973,
       "sha1": "817fd9cde420c7c65414b66fc5167c6b6e9dd068"
     },
@@ -121,9 +128,9 @@
       "sha1": "8f3e381c4aea651f55ed1cd35fd69613fcd7f9da"
     },
     {
-      "path": "mods/Mecha Parts-Content Pack-1.12.2-5.7.2.jar",
-      "assetName": "Mecha.Parts-Content.Pack-1.12.2-5.7.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Mecha.Parts-Content.Pack-1.12.2-5.7.2.jar",
+      "path": "mods/mecha-parts-content-pack-1.12.2-5.7.2.jar",
+      "assetName": "mecha-parts-content-pack-1.12.2-5.7.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/mecha-parts-content-pack-1.12.2-5.7.2.jar",
       "size": 30825,
       "sha1": "6ab260211429e4820300976b1612da84a75f1efa"
     },
@@ -135,9 +142,9 @@
       "sha1": "0be328464f26dc2bc99db54dad438bdb5e4d0ebd"
     },
     {
-      "path": "mods/Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
-      "assetName": "Modern.Warfare-Content.Pack-1.12.2-5.8.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Modern.Warfare-Content.Pack-1.12.2-5.8.2.jar",
+      "path": "mods/modern-warfare-content-pack-1.12.2-5.8.2.jar",
+      "assetName": "modern-warfare-content-pack-1.12.2-5.8.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/modern-warfare-content-pack-1.12.2-5.8.2.jar",
       "size": 30240221,
       "sha1": "ec52d608cf0217d9571353bb31431aa1ba151411"
     },
@@ -149,16 +156,16 @@
       "sha1": "7835c1dcc006e5d4a406a6b0615012b825e25044"
     },
     {
-      "path": "mods/Simple Parts-Content Pack-1.12.2-5.7.2.jar",
-      "assetName": "Simple.Parts-Content.Pack-1.12.2-5.7.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Simple.Parts-Content.Pack-1.12.2-5.7.2.jar",
+      "path": "mods/simple-parts-content-pack-1.12.2-5.7.2.jar",
+      "assetName": "simple-parts-content-pack-1.12.2-5.7.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/simple-parts-content-pack-1.12.2-5.7.2.jar",
       "size": 237132,
       "sha1": "c0070a31d356f87d02774d1f64947e9a4d4e60a6"
     },
     {
-      "path": "mods/simplelogin-1.2.4-beta+build127.jar",
-      "assetName": "simplelogin-1.2.4-beta+build127.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/simplelogin-1.2.4-beta%2Bbuild127.jar",
+      "path": "mods/simplelogin-1.2.4-beta-plus-build127.jar",
+      "assetName": "simplelogin-1.2.4-beta-plus-build127.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/simplelogin-1.2.4-beta-plus-build127.jar",
       "size": 93902,
       "sha1": "5c04d7858e1253aae2707594e95bb1a939b11580"
     },
@@ -170,9 +177,9 @@
       "sha1": "65a5cc41422bc665ec4b7d5e115efc7d95b002d7"
     },
     {
-      "path": "mods/Testers Cold War Pack-1.12.2.jar",
-      "assetName": "Testers.Cold.War.Pack-1.12.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Testers.Cold.War.Pack-1.12.2.jar",
+      "path": "mods/testers-cold-war-pack-1.12.2.jar",
+      "assetName": "testers-cold-war-pack-1.12.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/testers-cold-war-pack-1.12.2.jar",
       "size": 63130207,
       "sha1": "200b90d248c3548c6d29f18f16829409dae20ed2"
     },
@@ -205,18 +212,11 @@
       "sha1": "17314bdab33678478af060d2156338ee34db8a09"
     },
     {
-      "path": "mods/WW2-Content Pack-1.12.2-5.7.2.jar",
-      "assetName": "WW2-Content.Pack-1.12.2-5.7.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/WW2-Content.Pack-1.12.2-5.7.2.jar",
+      "path": "mods/ww2-content-pack-1.12.2-5.7.2.jar",
+      "assetName": "ww2-content-pack-1.12.2-5.7.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/ww2-content-pack-1.12.2-5.7.2.jar",
       "size": 5636950,
       "sha1": "aa138ecc99bd1d232def1c02b4908448a755e4bd"
-    },
-    {
-      "path": "mods/[1.12.2] SecurityCraft v1.9.12.jar",
-      "assetName": "[1.12.2].SecurityCraft.v1.9.12.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/%5B1.12.2%5D.SecurityCraft.v1.9.12.jar",
-      "size": 4045767,
-      "sha1": "d4f8f8211b8374c35102a8d2b9f40a6287e1e3eb"
     }
   ]
 }
