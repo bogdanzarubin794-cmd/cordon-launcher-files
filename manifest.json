@@ -37,11 +37,25 @@
       "sha1": "6eb72c2a6b9d202e53e760e26048c230cd2ca5da"
     },
     {
+      "path": "mods/buildcraft-all-8.0.0-1.jar",
+      "assetName": "buildcraft-all-8.0.0-1.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/buildcraft-all-8.0.0-1.jar",
+      "size": 5535454,
+      "sha1": "dba9b2f4560b6482affc85a535a13406f4a999ab"
+    },
+    {
       "path": "mods/CustomSkinLoader_ForgeV1-14.28.jar",
       "assetName": "CustomSkinLoader_ForgeV1-14.28.jar",
       "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/CustomSkinLoader_ForgeV1-14.28.jar",
       "size": 199551,
       "sha1": "c43a1075766588ea9764babf36442492bde7eefd"
+    },
+    {
+      "path": "mods/energyconverters_1.12.2-1.3.7.30-1.jar",
+      "assetName": "energyconverters_1.12.2-1.3.7.30-1.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/energyconverters_1.12.2-1.3.7.30-1.jar",
+      "size": 158910,
+      "sha1": "ec35d6517e2a819fdf6c1413812d66159ef889c2"
     },
     {
       "path": "mods/flans-mod-1.12.2-5.10.0.jar",
