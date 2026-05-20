@@ -16,16 +16,16 @@
       "sha1": "e5c3c11eafc5daf73652a2dabe855e3759caa8b5"
     },
     {
-      "path": "mods/Baubles-1.12-1.5.2.jar",
-      "assetName": "Baubles-1.12-1.5.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Baubles-1.12-1.5.2.jar",
+      "path": "mods/baubles-1.12-1.5.2.jar",
+      "assetName": "baubles-1.12-1.5.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/baubles-1.12-1.5.2.jar",
       "size": 108450,
       "sha1": "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549"
     },
     {
-      "path": "mods/BetterFps-1.4.8.jar",
-      "assetName": "BetterFps-1.4.8.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/BetterFps-1.4.8.jar",
+      "path": "mods/betterfps-1.4.8.jar",
+      "assetName": "betterfps-1.4.8.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/betterfps-1.4.8.jar",
       "size": 155196,
       "sha1": "245235d5c67daff00ee658ee1f88ae8c3e4584b8"
     },
@@ -44,9 +44,9 @@
       "sha1": "dba9b2f4560b6482affc85a535a13406f4a999ab"
     },
     {
-      "path": "mods/CustomSkinLoader_ForgeV1-14.28.jar",
-      "assetName": "CustomSkinLoader_ForgeV1-14.28.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/CustomSkinLoader_ForgeV1-14.28.jar",
+      "path": "mods/customskinloader_forgev1-14.28.jar",
+      "assetName": "customskinloader_forgev1-14.28.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/customskinloader_forgev1-14.28.jar",
       "size": 199551,
       "sha1": "c43a1075766588ea9764babf36442492bde7eefd"
     },
@@ -65,51 +65,51 @@
       "sha1": "817fd9cde420c7c65414b66fc5167c6b6e9dd068"
     },
     {
-      "path": "mods/Forgelin-1.8.4.jar",
-      "assetName": "Forgelin-1.8.4.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Forgelin-1.8.4.jar",
+      "path": "mods/forgelin-1.8.4.jar",
+      "assetName": "forgelin-1.8.4.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/forgelin-1.8.4.jar",
       "size": 6278399,
       "sha1": "7a87553fcb808a45d9c7e03f113b355ac7fd10d7"
     },
     {
-      "path": "mods/hbm-1.8.4a-G.jar",
-      "assetName": "hbm-1.8.4a-G.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/hbm-1.8.4a-G.jar",
+      "path": "mods/hbm-1.8.4a-g.jar",
+      "assetName": "hbm-1.8.4a-g.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/hbm-1.8.4a-g.jar",
       "size": 75657429,
       "sha1": "3bf515a690d84625bf9dabf2a6e0991ba2de0e00"
     },
     {
-      "path": "mods/HMBFixes-1.12.2-12.1.0.jar",
-      "assetName": "HMBFixes-1.12.2-12.1.0.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/HMBFixes-1.12.2-12.1.0.jar",
+      "path": "mods/hmbfixes-1.12.2-12.1.0.jar",
+      "assetName": "hmbfixes-1.12.2-12.1.0.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/hmbfixes-1.12.2-12.1.0.jar",
       "size": 21309,
       "sha1": "5502e85d56dda0a6f2454b64688c549e02d8e517"
     },
     {
-      "path": "mods/IC2Classic-1.12.2-1.5.14.jar",
-      "assetName": "IC2Classic-1.12.2-1.5.14.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/IC2Classic-1.12.2-1.5.14.jar",
+      "path": "mods/ic2classic-1.12.2-1.5.14.jar",
+      "assetName": "ic2classic-1.12.2-1.5.14.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/ic2classic-1.12.2-1.5.14.jar",
       "size": 6220942,
       "sha1": "2d62daeba5da657410113232515594c3ee33692e"
     },
     {
-      "path": "mods/iChunUtil-1.12.2-7.2.2.jar",
-      "assetName": "iChunUtil-1.12.2-7.2.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/iChunUtil-1.12.2-7.2.2.jar",
+      "path": "mods/ichunutil-1.12.2-7.2.2.jar",
+      "assetName": "ichunutil-1.12.2-7.2.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/ichunutil-1.12.2-7.2.2.jar",
       "size": 581963,
       "sha1": "2b53b0f9543c98adb0b89caa4da954a477259367"
     },
     {
-      "path": "mods/ImmersiveEngineering-0.12-98.jar",
-      "assetName": "ImmersiveEngineering-0.12-98.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/ImmersiveEngineering-0.12-98.jar",
+      "path": "mods/immersiveengineering-0.12-98.jar",
+      "assetName": "immersiveengineering-0.12-98.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/immersiveengineering-0.12-98.jar",
       "size": 6360959,
       "sha1": "633070d9c447fdaf6a9ead59425017815c890c63"
     },
     {
-      "path": "mods/ImmersiveRailroading-1.12.2-forge-1.8.0-7e0f82.jar",
-      "assetName": "ImmersiveRailroading-1.12.2-forge-1.8.0-7e0f82.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/ImmersiveRailroading-1.12.2-forge-1.8.0-7e0f82.jar",
+      "path": "mods/immersiverailroading-1.12.2-forge-1.8.0-7e0f82.jar",
+      "assetName": "immersiverailroading-1.12.2-forge-1.8.0-7e0f82.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/immersiverailroading-1.12.2-forge-1.8.0-7e0f82.jar",
       "size": 103953608,
       "sha1": "d2d1389ccc3f863ea7b83df0a17eb97391f58ae2"
     },
@@ -149,9 +149,9 @@
       "sha1": "6ab260211429e4820300976b1612da84a75f1efa"
     },
     {
-      "path": "mods/minecolonies-1.12.2-0.11.841-BETA-universal.jar",
-      "assetName": "minecolonies-1.12.2-0.11.841-BETA-universal.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/minecolonies-1.12.2-0.11.841-BETA-universal.jar",
+      "path": "mods/minecolonies-1.12.2-0.11.841-beta-universal.jar",
+      "assetName": "minecolonies-1.12.2-0.11.841-beta-universal.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/minecolonies-1.12.2-0.11.841-beta-universal.jar",
       "size": 34907058,
       "sha1": "0be328464f26dc2bc99db54dad438bdb5e4d0ebd"
     },
@@ -163,9 +163,9 @@
       "sha1": "ec52d608cf0217d9571353bb31431aa1ba151411"
     },
     {
-      "path": "mods/RedstoneFlux-1.12-2.1.1.1-universal.jar",
-      "assetName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "path": "mods/redstoneflux-1.12-2.1.1.1-universal.jar",
+      "assetName": "redstoneflux-1.12-2.1.1.1-universal.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/redstoneflux-1.12-2.1.1.1-universal.jar",
       "size": 31802,
       "sha1": "7835c1dcc006e5d4a406a6b0615012b825e25044"
     },
@@ -198,23 +198,23 @@
       "sha1": "200b90d248c3548c6d29f18f16829409dae20ed2"
     },
     {
-      "path": "mods/Thaumcraft-1.12.2-6.1.BETA26.jar",
-      "assetName": "Thaumcraft-1.12.2-6.1.BETA26.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/Thaumcraft-1.12.2-6.1.BETA26.jar",
+      "path": "mods/thaumcraft-1.12.2-6.1.beta26.jar",
+      "assetName": "thaumcraft-1.12.2-6.1.beta26.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/thaumcraft-1.12.2-6.1.beta26.jar",
       "size": 11360786,
       "sha1": "fe0899048f1796df04e9727bbf1898df30492a00"
     },
     {
-      "path": "mods/TrackAPI-1.2.jar",
-      "assetName": "TrackAPI-1.2.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/TrackAPI-1.2.jar",
+      "path": "mods/trackapi-1.2.jar",
+      "assetName": "trackapi-1.2.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/trackapi-1.2.jar",
       "size": 7374,
       "sha1": "e63bee0992b0a3403d8a95eb19676ce716691c50"
     },
     {
-      "path": "mods/UniversalModCore-1.12.2-forge-1.0.1.jar",
-      "assetName": "UniversalModCore-1.12.2-forge-1.0.1.jar",
-      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/UniversalModCore-1.12.2-forge-1.0.1.jar",
+      "path": "mods/universalmodcore-1.12.2-forge-1.0.1.jar",
+      "assetName": "universalmodcore-1.12.2-forge-1.0.1.jar",
+      "url": "https://github.com/bogdanzarubin794-cmd/cordon-launcher-files/releases/download/mods/universalmodcore-1.12.2-forge-1.0.1.jar",
       "size": 418224,
       "sha1": "fd28eb79d622929f40ebd8bb26712848f7b4e521"
     },
